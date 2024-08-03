@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot-qr-code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afaqir37/Discord-bot-QR-code-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afaqir37/Discord-bot-QR-code-generator/issues"
+  },
+  "homepage": "https://github.com/afaqir37/Discord-bot-QR-code-generator#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.8.0"
+  }
+}
