@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/afaqir37/Discord-bot-QR-code-generator#readme",
   "dependencies": {
-    "discord.js": "^14.15.3"
+    "axios": "^1.7.3",
+    "discord.js": "^14.15.3",
+    "qrcode": "^1.5.3"
   },
   "devDependencies": {
     "eslint": "^9.8.0"
